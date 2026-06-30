@@ -1,0 +1,3 @@
+rollNumber=BSSE 23100
+name= MUHAMMAD ABDULLAH
+phoneNumber= 03234351329
