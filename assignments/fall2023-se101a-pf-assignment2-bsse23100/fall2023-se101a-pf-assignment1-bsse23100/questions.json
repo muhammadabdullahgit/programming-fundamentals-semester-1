@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "statement":"In a toy factory, when operated together, two machines produce 10 teddy bears in 50 minutes. What is the quantity of teddy bears that a single machine can craft in 30 minutes?",
+      "options": [
+        "05",
+        "10",
+        "03",
+        "06",
+        "13"
+      ]
+    },
+    {
+      "statement":"Four specific numbers, namely 1, 2, 5, and 10, require transportation across a river via a boat. It's allowed to transport a maximum of two numbers during each trip, and the time taken is determined by the larger number of the pair. On the return journey, at least one number must be brought back, setting the time for that particular round trip. What represents the shortest possible duration required to move all these numbers between the two banks of the river?",
+      "options": [
+        "18 mins",
+        "17 mins",
+        "9 mins",
+        "20 mins",
+        "10 mins"
+      ]
+    },
+    {
+      "statement":"You have 2 eggs and you have access to a 100-story building. Eggs can be very hard or very fragile, i.e., they may break if dropped from the first floor or may not even break if dropped from the 100th floor. Both eggs are identical. You need to figure out the highest floor of the 100-story building from where an egg can be dropped without breaking. The question is how many drops you need to make. You are allowed to break 2 eggs in the process.What would be the total number of steps required.",
+      "options": [
+        "100 steps",
+        "10 steps",
+        "09 steps",
+        "18 steps",
+        "99 steps"
+      ]
+    },
+    {
+      "statement":"You have an infinite plane and lines. The lines can intersect each \nOther to make regions, e.g., one line will produce two regions, two lines will produce four regions. Can you tell with argument how many maximum regions will be there if you have n lines? ",
+      "options": [
+        "2+(2N)",
+        "2*n",
+        "2^n",
+        "4*n",
+        "16"
+      ]
+    },
+    {
+      "statement":"In a container, there are 75 white beans and 150 black beans. Adjacent to this container is a substantial heap of black beans. An eccentric cook extracts the beans from the container one by one, adhering to the following peculiar regulations:\nGuideline 1: Randomly drawing two beans from the container, if at least one of them is black, he relocates that black bean to the bean heap and returns the other bean, regardless of its color, back into the container.\nGuideline 2: However, when both beans drawn are white, he discards both of them and takes out a single black bean from the heap, placing it into the container.\nDuring each iteration of this procedure, the number of beans in the container decreases by one. Ultimately, only a solitary bean remains within the container. The inquiry arises: which color does this last bean possess?",
+      "options": [
+        "White",
+        "Black",
+        "No ball",
+        "Both white",
+        "Both black"
+      ]
+    },
+    {
+      "statement":"There are 12 red marbles and 18 blue marbles in a box. What is the likelihood that a red marble will be picked at random? Give a fractional version of your response.",
+      "options": [
+        "2/5",
+        "3/5",
+        "5/2",
+        "2/3",
+        "1/5"
+      ]
+    },
+    {
+      "statement":"10 red socks and 8 blue socks are jumbled together in a drawer. You can't see the socks because you are in a rush. How many socks must you remove a minimum of to guarantee you have a matching pair that is the same color?",
+      "options": [
+        "5",
+        "3",
+        "9",
+        "6",
+        "12"
+      ]
+    },
+    {
+      "statement":"Two doorways lead to the space where you are. The path to freedom is by one door, and the path to certain death is via the other. You are unable to identify each door. Both doors are being watched over by one of the two guards. Always telling the truth is one guard, and lying is the other. Which guard is which, is a mystery to you. There is a limit of one question per guard. How can you know which door opens to freedom? What question should you ask?",
+      "options": [
+        "If I were to ask the other guard which door leads to freedom, what would they say?",
+        "If I were to ask the other guard which door leads to death, what would they say?",
+        "If I were to ask you which door leads to freedom, what would you say?",
+        "If I were to ask the truth guard which door leads to freedom, what would he say?",
+        "If I were to ask the lier guard which door leads to freedom, what would he say?"
+      ]
+    },
+    {
+      "statement":"Muffins and cookies are sold in bakeries. The total revenue from selling three muffins and two cookies is $7.25, as opposed to the entire revenue from selling two muffins and three cookies, which is $6.50. Find out how much a muffin and a cookie are.",
+      "options": [
+        "Cost of a muffin is $1 and the cost of a cookie is $1.75.",
+        "Cost of a muffin is $1.75 and the cost of a cookie is $1.",
+        "Cost of a muffin is $1.25 and the cost of a cookie is $1.",
+        "Cost of a muffin is $1 and the cost of a cookie is $1.25.",
+        "Cost of a muffin is $1.25 and the cost of a cookie is $1.75."
+      ]
+    },
+    {
+      "statement":"A biologist is studying the growth of a population of bacteria. She observes that the population triples every 2 days. If the initial population of bacteria is P_initial , ∆t represents the number of days after that growth population triples, write an equation for the population P(t) after t days if a represents growth factor.",
+      "options": [
+        "P(t)=P_initial×a(t/Δt) ",
+        "P(t)=P(t)×a(t/Δt) ",
+        "P(t)=P_initial×a(Δt /Δt) ",
+        "P(t)=P_initial×a(Δt /Δt) ",
+        "P(t)=P_initial×P(t /Δt) "
+      ]
+    },
+    {
+      "statement":"Maria is very fond of reading. Find out how long is the book she is currently reading? Maria finished 4/6 of a book. She calculated that she finished 90 more pages than she has yet to read.",
+      "options": [
+        "30",
+        "90",
+        "120",
+        "170",
+        "270"
+      ]
+    },
+    {
+      "statement":"A farming field can be ploughed by 6 tractors in 4 days. When 6 tractors work together, each of them ploughs 120 hectares a day. If two of the tractors were moved to another field, then the remaining 4 tractors could plough the same field in 5 days. How many hectares a day would one tractor plough then?",
+      "options": [
+        "124",
+        "134",
+        "144",
+        "154",
+        "164"
+      ]
+    },
+    {
+      "statement":"Find the value of x  to the nearest tenth If (0.2)x = 2 and log 2 = 0.3010.",
+      "options": [
+        "-10.0",
+        "-0.5",
+        "-0.4",
+        "-0.2",
+        "10.0"
+      ]
+    },
+    {
+      "statement":"Find the value of 10-y If 102y = 25.",
+      "options": [
+        "-1/5",
+        "1/625",
+        "1/50",
+        "1/25",
+        "1/5"
+      ]
+    },
+    {
+      "statement":"What is the value of 8^x/2^y if 3x-y=12.",
+      "options": [
+        "8^2",
+        "2^12",
+        "4^4",
+        "3^12",
+        "3^3"
+      ]
+    },
+    {
+      "statement":"There are three numbers x,y,z. Sum of these numbers is 98. The ratio of the x to the y is  2/3, and the ratio of the y to the z is 5/8. The value of y is:",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "statement":"The distance between stations A and B is 148 km. An express train left station A towards station B with the speed of 80 km/hr. At the same time, a freight train left station B towards station A with the speed of 36 km/hr. They met at station C at 12 pm, and by that time the express train stopped at the intermediate station for 10 min and the freight train stopped for 5 min. The distance between stations C and B is:",
+      "options": [
+        "25",
+        "48",
+        "56",
+        "124",
+        "148"
+      ]
+    }
+  ]
+}
