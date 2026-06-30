@@ -1,0 +1,8 @@
+
+
+#ifndef HOSPITAL_PROJECT_DANIYAL_H
+#define HOSPITAL_PROJECT_DANIYAL_H
+
+int menu();
+
+#endif //HOSPITAL_PROJECT_DANIYAL_H

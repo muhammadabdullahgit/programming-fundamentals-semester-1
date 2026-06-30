@@ -1,0 +1,8 @@
+//
+// Created by Humble Tayyab on 11/12/2023.
+//
+
+#ifndef HOSPITAL_PROJECT_FATIMANOORSTAFF_H
+#define HOSPITAL_PROJECT_FATIMANOORSTAFF_H
+void menuOfStaff();
+#endif //HOSPITAL_PROJECT_FATIMANOORSTAFF_H

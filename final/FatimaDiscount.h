@@ -1,0 +1,8 @@
+//
+// Created by Humble Tayyab on 11/12/2023.
+//
+
+#ifndef HOSPITAL_PROJECT_FATIMADISCOUNT_H
+#define HOSPITAL_PROJECT_FATIMADISCOUNT_H
+void applydiscount();
+#endif //HOSPITAL_PROJECT_FATIMADISCOUNT_H

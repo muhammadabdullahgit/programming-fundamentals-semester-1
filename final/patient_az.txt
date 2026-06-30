@@ -1,0 +1,8 @@
+name of patient : az
+cell number of  patient : 1234
+test number patient want to perform: 4
+rating given by patient : 3
+name of patient : az
+cell number of  patient : 1234
+test number patient want to perform: 4
+rating given by patient : 2
